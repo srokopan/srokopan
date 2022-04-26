@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Spyros
+
+🔭 I’m currently working at Netcompany - Intrasoft
+
+
 
 <!--
 **srokopan/srokopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
