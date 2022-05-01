@@ -2,11 +2,6 @@
 
 🔭 I’m currently working at [Netcompany - Intrasoft](https://www.netcompany-intrasoft.com/) as a Software Engineer.
 
-📫 How to reach me: [personal web page](srokopan.github.io)
-
-⚡ Fun fact: I am a [PAOK](https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B8%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B5%CE%B9%CE%BF%CF%82_%CE%91%CE%B8%CE%BB%CE%B7%CF%84%CE%B9%CE%BA%CF%8C%CF%82_%CE%8C%CE%BC%CE%B9%CE%BB%CE%BF%CF%82_%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CE%BF%CF%85%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD) fan.
-
-
 <!--
 **srokopan/srokopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
