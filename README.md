@@ -1,4 +1,5 @@
-### Hi there 👋 I am Spyros and I am based in Athens, Greece.
+### Hi there 👋 
+### I am Spyros and I am based in Athens, Greece.
 
 🔭 I’m currently working at [Netcompany - Intrasoft](https://www.netcompany-intrasoft.com/) as a Software Engineer.
 
