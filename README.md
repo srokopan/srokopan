@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Spyros and I am based in Athens, Greece.
 
-🔭 I’m currently working at Netcompany - Intrasoft as a Software Engineer.
+🔭 I’m currently working at [Netcompany - Intrasoft](https://www.netcompany-intrasoft.com/) as a Software Engineer.
 
 <!--
 **srokopan/srokopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
