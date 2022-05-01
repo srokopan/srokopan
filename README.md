@@ -3,6 +3,8 @@
 
 🔭 I’m currently working at [Netcompany - Intrasoft](https://www.netcompany-intrasoft.com/) as a Software Engineer.
 
+⚡ [LinkedIn Profile](www.linkedin.com/in/spyros-rokopanos)
+
 <!--
 **srokopan/srokopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
